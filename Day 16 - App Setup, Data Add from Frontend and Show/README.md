@@ -11,6 +11,7 @@
 ## Project Setup
 
 - Create `venv`
+  - `python -m venv .venv`
 - Install Django
 - Create Project `school_project`
 - Initialize database
