@@ -15,7 +15,7 @@
   - `.venv\scripts\activate`
 - Django Install
   - `pip install django`
-- Project Start
+- Project Create (Start)
   - django-admin startproject `school_project`
   - vs code open `code .`
 
@@ -24,11 +24,11 @@
 ## App Setup
 
 - App Setup
-  - App Start
+  - App Create (Start)
     - `cd school_project`
     - `python manage.py startapp school_app`
     - `school_project/school_app`
-  - App Add
+  - App Register (Add)
     - `school_project/settings.py/INSTALLED_APPS/school_app`
 - Model Setup
   - Model Create `school_app/models.py/StudentModel`
