@@ -6,7 +6,7 @@
   - [Templates and URL Setup](#templates-and-url-setup)
 - [Data Add From Frontend And Show](#data-add-from-frontend-and-show)
 
---
+---
 
 ## Project Setup
 
