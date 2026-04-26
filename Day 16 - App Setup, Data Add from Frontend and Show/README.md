@@ -17,8 +17,6 @@
   - django-admin startproject `school_project`
   - vs code open `code .`
 
----
-
 ## App Setup
 
 - App Setup
@@ -36,8 +34,6 @@
 - Templates Setup
 - URL Setup
 
----
-
 - Database Setup
   - `python manage.py makemigrations`
   - `python manage.py migrate`
@@ -47,5 +43,3 @@
     - email
     - password
     - confirmation
-
----
