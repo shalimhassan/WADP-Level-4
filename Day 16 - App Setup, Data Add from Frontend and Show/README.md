@@ -17,12 +17,12 @@
   - `pip install django`
 - Project Create
   - django-admin startproject `school_project`
-- Initialize database
 - Superuser Create
   - python manage.py createsuperuser
     - username
     - email
     - password
+    - confirmation
 
 ---
 
