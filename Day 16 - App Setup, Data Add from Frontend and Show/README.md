@@ -19,7 +19,6 @@
   - django-admin startproject `school_project`
   - cd `school_project`
   - vs code open `code .`
-- VS
 - Superuser Create
   - python manage.py createsuperuser
     - username
