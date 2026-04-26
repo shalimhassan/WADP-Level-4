@@ -18,7 +18,11 @@
 - Project Create
   - django-admin startproject `school_project`
 - Initialize database
-- Create Superuser
+- Superuser Create
+  - python manage.py createsuperuser
+    - username
+    - email
+    - password
 
 ---
 
