@@ -15,10 +15,14 @@
   - `.venv\scripts\activate`
 - Django Install
   - `pip install django`
-- Project Create
+- Project Start
   - django-admin startproject `school_project`
   - cd `school_project`
   - vs code open `code .`
+- Database Setup
+  - `python manage.py makemigrations`
+  - `python manage.py migrate`
+  - `python manage.py createsuperuser`
 - Superuser Create
   - python manage.py createsuperuser
     - username
