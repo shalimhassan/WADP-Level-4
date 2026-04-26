@@ -29,6 +29,7 @@
     - `python manage.py startapp school_app`
   - App Add
     - `school_project/settings.py/INSTALLED_APPS/school_app`
+- Model Setup
   - Create Model `school_app/models.py/StudentModel`
     - [models.py](school_app/models.py)
   - Register Model `school_app/admin.py/StudentModel`
