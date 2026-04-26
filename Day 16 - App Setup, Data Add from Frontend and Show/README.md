@@ -28,9 +28,11 @@
       
 ## Model Setup
 
-- Model Create `school_app/models.py/StudentModel`
+- Model Create
+  - `school_app/models.py/StudentModel`
   - [models.py](school_app/models.py)
-- Model Register `school_app/admin.py/StudentModel`
+- Model Register
+  -`school_app/admin.py/StudentModel`
   - [admin.py](school_app/admin.py)
       
 ## Templates Setup
