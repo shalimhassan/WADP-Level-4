@@ -19,20 +19,23 @@
 
 ## App Setup
 
-- App Setup
-  - App Create (Start)
-    - `cd school_project`
-    - `python manage.py startapp school_app`
-    - `school_project/school_app`
-  - App Register (Add)
-    - `school_project/settings.py/INSTALLED_APPS/school_app`
+- App Create (Start)
+  - `cd school_project`
+  - `python manage.py startapp school_app`
+  - `school_project/school_app`
+- App Register (Add)
+  - `school_project/settings.py/INSTALLED_APPS/school_app`
+      
 ## Model Setup
-  - Model Create `school_app/models.py/StudentModel`
-    - [models.py](school_app/models.py)
-  - Model Register `school_app/admin.py/StudentModel`
-    - [admin.py](school_app/admin.py)
-- Templates Setup
-- URL Setup
+
+- Model Create `school_app/models.py/StudentModel`
+  - [models.py](school_app/models.py)
+- Model Register `school_app/admin.py/StudentModel`
+  - [admin.py](school_app/admin.py)
+      
+## Templates Setup
+
+## URL Setup
 
 - Database Setup
   - `python manage.py makemigrations`
