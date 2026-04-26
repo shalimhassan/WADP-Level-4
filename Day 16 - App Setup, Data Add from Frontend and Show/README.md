@@ -30,11 +30,12 @@
   - App Add
     - `school_project/settings.py/INSTALLED_APPS/school_app`
 - Model Setup
-  - Create Model `school_app/models.py/StudentModel`
+  - Model Create `school_app/models.py/StudentModel`
     - [models.py](school_app/models.py)
-  - Register Model `school_app/admin.py/StudentModel`
+  - Model Register `school_app/admin.py/StudentModel`
     - [admin.py](school_app/admin.py)
-- Templates and URL Setup
+- Templates Setup
+- URL Setup
 
 ---
 
