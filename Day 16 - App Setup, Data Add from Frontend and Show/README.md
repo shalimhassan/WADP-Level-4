@@ -20,6 +20,8 @@
 - Initialize database
 - Create Superuser
 
+---
+
 ## App Setup
 - App Setup
   - Create App `school_project/school_app`
