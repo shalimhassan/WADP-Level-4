@@ -26,7 +26,7 @@
     - `school_project/school_app`
   - App Register (Add)
     - `school_project/settings.py/INSTALLED_APPS/school_app`
-- Model Setup
+## Model Setup
   - Model Create `school_app/models.py/StudentModel`
     - [models.py](school_app/models.py)
   - Model Register `school_app/admin.py/StudentModel`
