@@ -15,7 +15,7 @@
   - `.venv\scripts\activate`
 - Django Install
   - `pip install django`
-- Project Create `school_project`
+- Project Create
   - django-admin startproject `school_project`
 - Initialize database
 - Create Superuser
