@@ -22,7 +22,6 @@
 - Database Setup
   - `python manage.py makemigrations`
   - `python manage.py migrate`
-  - `python manage.py createsuperuser`
 - Superuser Create
   - python manage.py createsuperuser
     - username
