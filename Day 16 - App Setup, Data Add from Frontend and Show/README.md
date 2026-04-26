@@ -23,6 +23,7 @@
 ---
 
 ## App Setup
+
 - App Setup
   - Create App `school_project/school_app`
   - Add App `school_project/settings.py/INSTALLED_APPS/school_app`
@@ -31,6 +32,8 @@
   - Register Model `school_app/admin.py/StudentModel`
     - [admin.py](school_app/admin.py)
 - Templates and URL Setup
+
+---
 
 - Database Setup
   - `python manage.py makemigrations`
@@ -43,13 +46,3 @@
     - confirmation
 
 ---
-
-## App Setup
-- App Setup
-  - Create App `school_project/school_app`
-  - Add App `school_project/settings.py/INSTALLED_APPS/school_app`
-  - Create Model `school_app/models.py/StudentModel`
-    - [models.py](school_app/models.py)
-  - Register Model `school_app/admin.py/StudentModel`
-    - [admin.py](school_app/admin.py)
-- Templates and URL Setup
