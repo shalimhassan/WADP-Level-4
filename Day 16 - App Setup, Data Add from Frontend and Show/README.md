@@ -10,10 +10,13 @@
 
 ## Project Setup
 
-- Create `venv`
+- Virtual Environment
   - `python -m venv .venv`
-- Install Django
-- Create Project `school_project`
+  - `.venv\scripts\activate`
+- Django Install
+  - `pip install django`
+- Project Create `school_project`
+  - django-admin startproject `school_project`
 - Initialize database
 - Create Superuser
 
