@@ -40,7 +40,7 @@
     - [models.py](school_app/models.py)
     
 - Model Register
-  - register model inside admin.py
+  - register Model inside admin.py
     - `crud_app/admin.py/StudentModel`
     - [admin.py](school_app/admin.py)
       
