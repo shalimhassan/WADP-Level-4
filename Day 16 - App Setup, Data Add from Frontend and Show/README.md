@@ -11,9 +11,11 @@
 - Virtual Environment
   - `python -m venv .venv`
   - `.venv\scripts\activate`
+    
 - Django Install
   - `pip install django`
   - `cls`
+    
 - Project Create (Start)
   - `django-admin startproject crud_p1_project`
   - `code .`
@@ -24,6 +26,7 @@
   - `cd crud_p1_project`
   - `python manage.py startapp crud_app`
   - `crud_p1_project/crud_app`
+    
 - App Register (Add)
   - `crud_p1_project/settings.py/INSTALLED_APPS/crud_app`
       
@@ -32,6 +35,7 @@
 - Model Create
   - `crud_app/models.py/StudentModel`
   - [models.py](school_app/models.py)
+    
 - Model Register
   - `school_app/admin.py/StudentModel`
   - [admin.py](school_app/admin.py)
