@@ -25,7 +25,7 @@
   - `python manage.py migrate`
     
 - Superuser Create
-  - python manage.py createsuperuser
+  - `python manage.py createsuperuser`
   - username
   - email
   - password
