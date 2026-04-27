@@ -33,8 +33,6 @@
 - App Register (Add)
   - Register App inside project/settings.py/INSTALLED_APPS
     - `crud_p1_project/settings.py/INSTALLED_APPS/crud_app`
-      
-## Model Setup
 
 - Model Create
   - create Model inside models.py
