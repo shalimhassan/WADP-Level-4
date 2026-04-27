@@ -33,7 +33,7 @@
   - `school_app/models.py/StudentModel`
   - [models.py](school_app/models.py)
 - Model Register
-  -`school_app/admin.py/StudentModel`
+  - `school_app/admin.py/StudentModel`
   - [admin.py](school_app/admin.py)
       
 ## Templates Setup
