@@ -23,9 +23,12 @@
 ## App Setup
 
 - App Create (Start)
-  - `cd crud_p1_project`
-  - `python manage.py startapp crud_app`
-  - `crud_p1_project/crud_app`
+  - enter into project
+    - `cd crud_p1_project`
+  - create app
+    - `python manage.py startapp crud_app`
+  - dir
+    - `crud_p1_project/crud_app`
     
 - App Register (Add)
   - Register App inside project/settings.py/INSTALLED_APPS
@@ -34,12 +37,14 @@
 ## Model Setup
 
 - Model Create
-  - `crud_app/models.py/StudentModel`
-  - [models.py](school_app/models.py)
+  - create Model inside models.py
+    - `crud_app/models.py/StudentModel`
+    - [models.py](school_app/models.py)
     
 - Model Register
-  - `school_app/admin.py/StudentModel`
-  - [admin.py](school_app/admin.py)
+  - register model inside admin.py
+    - `crud_app/admin.py/StudentModel`
+    - [admin.py](school_app/admin.py)
       
 ## Templates Setup
 
