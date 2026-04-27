@@ -31,6 +31,9 @@
   - password
   - confirmation
 
+- Server Run
+  - `python manage.py runserver`
+
 ## App Setup
 
 - App Create (Start)
