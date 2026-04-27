@@ -13,8 +13,10 @@
   - `.venv\scripts\activate`
 - Django Install
   - `pip install django`
+  - `cls`
 - Project Create (Start)
-  - django-admin startproject `school_project`
+  - `django-admin startproject school_project`
+  - `code .`
 
 ## App Setup
 
