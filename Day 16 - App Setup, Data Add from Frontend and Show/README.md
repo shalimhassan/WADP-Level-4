@@ -15,22 +15,22 @@
   - `pip install django`
   - `cls`
 - Project Create (Start)
-  - `django-admin startproject school_project`
+  - `django-admin startproject crud_p1_project`
   - `code .`
 
 ## App Setup
 
 - App Create (Start)
-  - `cd school_project`
-  - `python manage.py startapp school_app`
-  - `school_project/school_app`
+  - `cd crud_p1_project`
+  - `python manage.py startapp crud_app`
+  - `crud_p1_project/crud_app`
 - App Register (Add)
-  - `school_project/settings.py/INSTALLED_APPS/school_app`
+  - `crud_p1_project/settings.py/INSTALLED_APPS/crud_app`
       
 ## Model Setup
 
 - Model Create
-  - `school_app/models.py/StudentModel`
+  - `crud_app/models.py/StudentModel`
   - [models.py](school_app/models.py)
 - Model Register
   - `school_app/admin.py/StudentModel`
