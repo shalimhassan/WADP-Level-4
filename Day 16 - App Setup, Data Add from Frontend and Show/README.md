@@ -20,10 +20,21 @@
   - `django-admin startproject crud_p1_project`
   - `code .`
 
+- Database Initialize
+  - `python manage.py makemigrations`
+  - `python manage.py migrate`
+    
+- Superuser Create
+  - python manage.py createsuperuser
+  - username
+  - email
+  - password
+  - confirmation
+
 ## App Setup
 
 - App Create (Start)
-  - enter into project
+  - enter into the project
     - `cd crud_p1_project`
   - create app
     - `python manage.py startapp crud_app`
@@ -43,17 +54,9 @@
   - register Model inside admin.py
     - `crud_app/admin.py/StudentModel`
     - [admin.py](school_app/admin.py)
-      
+
 ## Templates Setup
 
 ## URL Setup
 
-- Database Setup
-  - `python manage.py makemigrations`
-  - `python manage.py migrate`
-- Superuser Create
-  - python manage.py createsuperuser
-    - username
-    - email
-    - password
-    - confirmation
+
