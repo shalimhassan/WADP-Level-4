@@ -15,7 +15,6 @@
   - `pip install django`
 - Project Create (Start)
   - django-admin startproject `school_project`
-  - vs code open `code .`
 
 ## App Setup
 
