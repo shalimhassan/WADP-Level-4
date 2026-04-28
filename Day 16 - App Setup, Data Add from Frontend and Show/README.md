@@ -20,7 +20,7 @@
   - `cd my_project`
   - `dir`
     - my_project folder
-    - manage.py 
+    - manage.py file
 
 - Database Initialize
   - `python manage.py makemigrations`
