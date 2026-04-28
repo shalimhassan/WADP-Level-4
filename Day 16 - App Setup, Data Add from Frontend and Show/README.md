@@ -54,11 +54,11 @@
 
 ## templates
 - folder create named `templates` folder
-- file create inside `templates` folder
-  - `home.html`
-  - `teacher.html`
-- folder create inside `templates` folder
-  - `master`
+  - file create inside `templates` folder
+    - `home.html`
+    - `teacher.html`
+  - folder create inside `templates` folder
+    - `master`
 - 
 
 ## URL Setup
