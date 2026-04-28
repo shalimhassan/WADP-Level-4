@@ -34,13 +34,13 @@
 
 ## App Setup
 
-- App Create (Start)
-  - create app
+- App
+  - create app (start)
     - `python manage.py startapp my_app`
     
-- App Register (Add)
-  - Register App inside project/settings.py/INSTALLED_APPS
-    - `crud_p1_project/settings.py/INSTALLED_APPS/crud_app`
+  - register app (add)
+    - Register App inside project/settings.py/INSTALLED_APPS
+      - `crud_p1_project/settings.py/INSTALLED_APPS/crud_app`
 
 - Model Create
   - create Model inside models.py
