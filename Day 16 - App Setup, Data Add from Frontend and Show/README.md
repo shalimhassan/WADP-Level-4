@@ -63,18 +63,6 @@
         - `base.html`file
         - `nav.html`file
 
-`📁 templates
-├── 📁 master
-│   ├── 🌐 base.html
-│   └── 🌐 nav.html
-└── 🌐 student-list.html`
-
-templates/
-└── master/
-    ├── base.html
-    ├── nav.html
-    └── student-list.html
-
 ## URL Setup
 
 
