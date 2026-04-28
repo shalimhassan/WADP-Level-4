@@ -53,7 +53,7 @@
     - [admin.py](school_app/admin.py)
 
 ## templates
-- folder create named `templates`
+- folder create named `templates` folder
 - file create inside `templates` folder
   - `home.html`
   - `teacher.html`
