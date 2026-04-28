@@ -59,6 +59,9 @@
     - `teacher.html`
   - folder create inside `templates` folder
     - `master`
+      - file create inside `master` folder
+        - `base.html`
+        - `nav.html`
 - 
 
 ## URL Setup
