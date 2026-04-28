@@ -16,7 +16,7 @@
   - `pip install django`
     
 - Project Create (Start)
-  - `django-admin startproject my_project . (including space dot)`
+  - `django-admin startproject school_project . (including space dot)`
 
 - Database Initialize
   - `python manage.py makemigrations`
@@ -36,7 +36,7 @@
 
 - App
   - create app (start)
-    - `python manage.py startapp my_app`
+    - `python manage.py startapp school_app`
     
   - register app (add)
     - Register App inside project/settings.py/INSTALLED_APPS
@@ -44,14 +44,14 @@
 
 - Model
   - create model
-    - create Model inside models.py
-      - example: `StudentModel`
-      - `my_app/models.py/StudentModel`
+    - create Model inside school_app/models.py
+      - example: `TeacherModel`
+      - `school_app/models.py/TeacherModel`
       - [models.py](school_app/models.py)
     
   - register model
-    - register Model inside app/admin.py
-      - `my_app/admin.py/StudentModel`
+    - register Model inside school_app/admin.py
+      - `school_app/admin.py/TeacherModel`
       - [admin.py](school_app/admin.py)
 
 ## templates
