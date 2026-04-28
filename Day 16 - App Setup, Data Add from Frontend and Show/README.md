@@ -17,6 +17,10 @@
     
 - Project Create (Start)
   - `django-admin startproject my_project`
+  - `cd my_project`
+  - `dir`
+    - my_project folder
+    - manage.py 
 
 - Database Initialize
   - `python manage.py makemigrations`
