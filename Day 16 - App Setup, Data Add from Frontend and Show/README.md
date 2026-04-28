@@ -52,11 +52,13 @@
     - `crud_app/admin.py/StudentModel`
     - [admin.py](school_app/admin.py)
 
-## Templates Setup
+## templates
 - folder create named `templates`
-- file create inside templates
+- file create inside `templates` folder
   - `home.html`
   - `teacher.html`
+- folder create inside `templates` folder
+  - `master`
 - 
 
 ## URL Setup
