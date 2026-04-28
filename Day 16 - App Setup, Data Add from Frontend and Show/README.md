@@ -35,15 +35,15 @@
 ## App Setup
 
 - App
-  - create app (start)
+  - Create App (Start)
     - `python manage.py startapp school_app`
     
-  - register app (add)
-    - Register App inside project/settings.py/INSTALLED_APPS
+  - Register App (Add)
+    - register app inside project/settings.py/INSTALLED_APPS
       - `my_project/settings.py/INSTALLED_APPS/my_app`
 
 - Model
-  - create model
+  - Create Model
     - create Model inside school_app/models.py
       - example: `TeacherModel`
       - `school_app/models.py/TeacherModel`
