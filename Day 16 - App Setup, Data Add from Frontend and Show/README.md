@@ -8,7 +8,7 @@
 
 ## Project Setup
 
-- Virtual Environment
+- VENV Create
   - `python -m venv .venv`
   - `.venv\scripts\activate`
     
