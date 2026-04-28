@@ -35,12 +35,8 @@
 ## App Setup
 
 - App Create (Start)
-  - enter into the project
-    - `cd my_project`
   - create app
     - `python manage.py startapp my_app`
-  - dir
-    - `crud_p1_project/crud_app`
     
 - App Register (Add)
   - Register App inside project/settings.py/INSTALLED_APPS
@@ -57,6 +53,7 @@
     - [admin.py](school_app/admin.py)
 
 ## Templates Setup
+- Create a folder named `templates`
 
 ## URL Setup
 
