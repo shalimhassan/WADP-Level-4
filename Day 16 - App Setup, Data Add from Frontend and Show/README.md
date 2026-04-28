@@ -16,7 +16,7 @@
   - `pip install django`
     
 - Project Create (Start)
-  - `django-admin startproject my_project`
+  - `django-admin startproject my_project . (including space dot)`
   - `cd my_project`
   - `dir`
     - my_project folder
