@@ -62,11 +62,12 @@
       - file create inside `master` folder
         - `base.html`file
         - `nav.html`file
-📁 templates
+
+`📁 templates
 ├── 📁 master
 │   ├── 🌐 base.html
 │   └── 🌐 nav.html
-└── 🌐 student-list.html
+└── 🌐 student-list.html`
 
 ## URL Setup
 
