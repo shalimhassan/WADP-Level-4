@@ -14,11 +14,9 @@
     
 - Django Install
   - `pip install django`
-  - `cls`
     
 - Project Create (Start)
   - `django-admin startproject crud_p1_project`
-  - `code .`
 
 - Database Initialize
   - `python manage.py makemigrations`
