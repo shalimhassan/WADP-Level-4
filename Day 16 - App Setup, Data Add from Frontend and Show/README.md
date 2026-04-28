@@ -40,17 +40,19 @@
     
   - register app (add)
     - Register App inside project/settings.py/INSTALLED_APPS
-      - `crud_p1_project/settings.py/INSTALLED_APPS/crud_app`
+      - `my_project/settings.py/INSTALLED_APPS/my_app`
 
-- Model Create
-  - create Model inside models.py
-    - `crud_app/models.py/StudentModel`
-    - [models.py](school_app/models.py)
+- Model
+  - create model
+    - create Model inside models.py
+      - example: `StudentModel`
+      - `my_app/models.py/StudentModel`
+      - [models.py](school_app/models.py)
     
-- Model Register
-  - register Model inside admin.py
-    - `crud_app/admin.py/StudentModel`
-    - [admin.py](school_app/admin.py)
+  - register model
+    - register Model inside app/admin.py
+      - `my_app/admin.py/StudentModel`
+      - [admin.py](school_app/admin.py)
 
 ## templates
 - folder create named `templates` folder
