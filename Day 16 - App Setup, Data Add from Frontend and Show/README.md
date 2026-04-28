@@ -16,7 +16,7 @@
   - `pip install django`
     
 - Project Create (Start)
-  - `django-admin startproject crud_p1_project`
+  - `django-admin startproject my_project`
 
 - Database Initialize
   - `python manage.py makemigrations`
@@ -36,9 +36,9 @@
 
 - App Create (Start)
   - enter into the project
-    - `cd crud_p1_project`
+    - `cd my_project`
   - create app
-    - `python manage.py startapp crud_app`
+    - `python manage.py startapp my_app`
   - dir
     - `crud_p1_project/crud_app`
     
