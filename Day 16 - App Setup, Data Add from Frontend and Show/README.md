@@ -62,7 +62,12 @@
       - file create inside `master` folder
         - `base.html`file
         - `nav.html`file
-- 
+- 📁 templates
+  ├── 📁 master
+  │   ├── 🌐 base.html
+  │   └── 🌐 nav.html
+  ├── 🌐 home.html
+  └── 🌐 home.html
 
 ## URL Setup
 
